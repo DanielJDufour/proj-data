@@ -1,4 +1,4 @@
-vim const fs = require("fs");
+const fs = require("fs");
 
 let code = fs.readFileSync("./data/proj.js", "utf-8");
 
