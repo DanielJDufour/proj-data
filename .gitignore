@@ -105,3 +105,9 @@ dist
 
 # pnpm lock file
 pnpm-lock.yaml
+
+*.new
+scripts/data/*.csv
+scripts/data/*.json
+scripts/data/proj.js
+scripts/data/proj-mod.js
