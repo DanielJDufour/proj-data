@@ -1,7 +1,7 @@
 {
-  "name": "crs-data",
+  "name": "proj-data",
   "version": "0.0.0",
-  "description": "Coordinate Reference System Information (PROJ4 String, ESRI WKT, and OGC WKT)",
+  "description": "Projection Data Compressed to Fit in the Browser.  Includes PROJ4 Strings, ESRI WKT, and OGC WKT",
   "main": "proj-data.js",
   "files": [
     "proj-data.js"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielJDufour/crs-data.git"
+    "url": "git+https://github.com/DanielJDufour/proj-data.git"
   },
   "keywords": [
     "crs",
@@ -24,9 +24,9 @@
   "author": "Daniel J. Dufour",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/DanielJDufour/crs-data/issues"
+    "url": "https://github.com/DanielJDufour/proj-data/issues"
   },
-  "homepage": "https://github.com/DanielJDufour/crs-data#readme",
+  "homepage": "https://github.com/DanielJDufour/proj-data#readme",
   "devDependencies": {
     "cross-fetch": "^3.1.4",
     "decompress": "^4.2.1",
