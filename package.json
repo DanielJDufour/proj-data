@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Coordinate Reference System Information (PROJ4 String, ESRI WKT, and OGC WKT)",
   "main": "proj-data.js",
+  "files": [
+    "proj-data.js"
+  ],
   "scripts": {
     "build": "cd scripts && node step-1-download-json.js && node step-2-process-json.js && node step-3-convert-json-to-code.js && node step-4-mod-code.js && cp data/proj-mod.js ../proj-data.js",
     "test": "node test.js"
