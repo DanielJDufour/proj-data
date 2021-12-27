@@ -5,7 +5,6 @@
 - fits in the browser
 - loads super quickly
 - includes PROJ4 Strings, ESRI WKT, and OGC WKT
-- zero run-time dependencies
 - data scraped from epsg.io
 
 # install
